@@ -124,4 +124,4 @@ Escribí una herramienta que calcula el contraste WCAG del texto pequeño con lo
 
 ## 📬 Contacto
 
-**Infinity dev by Frank** · [GitHub](https://github.com/TheGeistGamer) · [Infinity](https://infinitydev.agency)
+**Infinity dev by Frank** · [GitHub](https://github.com/InfinityByFrank) · [Infinity](https://infinitydev.agency) · [Portfolio](https://portfolio.infinitydev.agency)

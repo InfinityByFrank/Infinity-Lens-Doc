@@ -124,4 +124,4 @@ I wrote a tool that computes WCAG contrast of small text with real iOS colors an
 
 ## 📬 Contact
 
-**Infinity dev by Frank** · [GitHub](https://github.com/TheGeistGamer) · [Infinity](https://infinitydev.agency)
+**Infinity dev by Frank** · [GitHub](https://github.com/InfinityByFrank) · [Infinity](https://infinitydev.agency) · [Portfolio](https://portfolio.infinitydev.agency)
